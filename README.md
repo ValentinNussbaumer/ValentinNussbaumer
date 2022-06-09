@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Valentin Nussbaumer
 - 👀 I’m interested in Web Design and Programming
 - 🌱 I’m currently learning Javascipt and PHP
-- 📫 contact@valentin-nussbaumer.com
+- 📫 mail@valentin-nussbaumer.com
 - 🖥 https://valentin-nussbaumer.com
 
 <!---
